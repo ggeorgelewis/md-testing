@@ -1,9 +1,7 @@
-product:
+---
 
-Counterparty Management
-
-capability:
-Counterparty Management
+product: Counterparty Management
+capability: Counterparty Management
 infotype: Concept
 audience:
 
@@ -18,5 +16,5 @@ Requests are managed on the komgo platform in a similar way to sending or receiv
 Counterparty management is critical to ensuring sensitive information is only sent to counterparties with whom your organisation has agreed to share information with.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTE5ODAyM119
+eyJoaXN0b3J5IjpbODA4NTA2ODUyXX0=
 -->

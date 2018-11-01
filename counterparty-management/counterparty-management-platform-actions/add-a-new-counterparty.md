@@ -1,20 +1,8 @@
 ---
-
-product:
-
-Counterparty Management
-
-capability:
-
-actions
-
-infotype:
-
-task
-
-audience:
-
-KYC Analyst, Finance Manager, Trade Finance Operator
+product: Counterparty Management
+capability: actions
+infotype: task
+audience: KYC Analyst, Finance Manager, Trade Finance Operator
 
 ---
 
@@ -28,5 +16,5 @@ Users can extend their coverage group by adding new counterparties. This is done
 Click _**Add New**_ to add a new counterparty, and select any company from the list of companies already onboarded on the komgo platform. Submit a request to add the company to your counterparty coverage group.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMzAwMDAzXX0=
+eyJoaXN0b3J5IjpbMTIxMTA2NDIzNV19
 -->

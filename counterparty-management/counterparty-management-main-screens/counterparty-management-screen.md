@@ -1,19 +1,10 @@
 ---
-product:
-
-Counterparty Management
-
-capability:
-
-screens
-
-infotype:
-
-Landingpage
-
+product: Counterparty Management
+capability: screens
+infotype: Landingpage
 audience:
 
--
+--
 
 # Counterparty Management Screen
 
@@ -22,5 +13,5 @@ The Counterparty Management screen lists authorized counterparties - that means 
 Users can also add a new counterparty to forward a counterparty management request to the selected entity.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NzYxMzMyXX0=
+eyJoaXN0b3J5IjpbLTkzMzE0MjU5OV19
 -->

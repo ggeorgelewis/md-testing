@@ -1,6 +1,7 @@
 ---
 product: komgo
 infotype: article
+
 ---
 
 # komgo Platform Overview
@@ -24,3 +25,6 @@ The platform achieves this through the the following key capabilities:
 
 * **Trade Finance** The Trade Finance feature facilitates both processes for applying for financing, and the subsequent issuing and sharing of the resulting instrument. komgo simplifies this process for all parties by providing a secure manner for commodities traders to share the documentation required for a finance application. After acceptance thereof, komgo enables the issuing bank to create the financing instrument on the platform, and securely share it with all the relevant stakeholders.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MTkzMTA2MjBdfQ==
+-->

@@ -1,6 +1,17 @@
+---
+product: Know Your Customer
+capability: screens
+infotype: Landingpage
+audience:
+
+---
+
 # Template Manager Screen
 
 Template Manager is used to create and edit templates used in document requests.
 
 A template comprises a number of document categories and types, which are requested from a counterparty in the document request flow. These document categories and types are predefined by komgo
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2Nzc1MDk2NjZdfQ==
+-->

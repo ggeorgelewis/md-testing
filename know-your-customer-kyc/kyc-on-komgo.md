@@ -1,3 +1,11 @@
+---
+product: Know Your Customer
+capability: Know Your Customer
+infotype: Concept
+audience:
+
+---
+
 # KYC on komgo
 
 komgo allows banks and organisations to manage their KYC with other parties. Organisations can send their own documents to other counterparties for KYC purposes.
@@ -6,3 +14,6 @@ komgo leverages its document management system to provide users with a way to co
 
 Users can manage their KYC document libraries and create templates, which can be used to ease the process of requesting a new set of documents from a counterparty.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA1MTU0MTk1MF19
+-->

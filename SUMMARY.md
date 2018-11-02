@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [komgo Platform Overview](README.md)
 
@@ -27,7 +27,5 @@
   * [Create Document Request Template](know-your-customer-kyc/kyc-platform-actions/create-document-request-template.md)
   * [Document Request](know-your-customer-kyc/kyc-platform-actions/document-request.md)
   * [Create Document Request Template](know-your-customer-kyc/kyc-platform-actions/create-document-request-template)
+* [testing topic](know-your-customer-kyc/testing-topic.md)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTQ1NTg2OV19
--->

@@ -12,7 +12,3 @@ audience: KYC Analyst, Finance Manager
 Users can request documents by using a pre-existing template from a list of templates.
 
 The categories and document types being requested are listed in the template.
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM2NDE5MzVdfQ==
--->

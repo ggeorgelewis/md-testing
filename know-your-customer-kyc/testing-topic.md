@@ -17,7 +17,7 @@ Paragraph
 1. numbered list
 2. list item
 
-| table  | head |
+| table | head |
 | :--- | :--- |
 | cell 1 | cell 2 |
 

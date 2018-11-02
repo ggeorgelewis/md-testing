@@ -27,4 +27,5 @@
   * [Create Document Request Template](know-your-customer-kyc/kyc-platform-actions/create-document-request-template.md)
   * [Document Request](know-your-customer-kyc/kyc-platform-actions/document-request.md)
   * [Create Document Request Template](know-your-customer-kyc/kyc-platform-actions/create-document-request-template)
+* [Testing commits](testing-commits.md)
 

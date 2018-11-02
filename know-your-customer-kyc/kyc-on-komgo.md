@@ -3,7 +3,6 @@ product: Know Your Customer
 capability: Know Your Customer
 infotype: Concept
 audience:
-
 ---
 
 # KYC on komgo

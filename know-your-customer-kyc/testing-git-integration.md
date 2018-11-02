@@ -1,5 +1,5 @@
 ---
-roduct: komgo Platform
+product: komgo Platform
 capability: null
 infotype: Overview
 audience: null

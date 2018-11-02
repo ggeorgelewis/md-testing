@@ -1,10 +1,8 @@
 ---
-
 product: Know Your Customer
 capability:
 infotype: Overview
 audience:
-
 ---
 
 # What is KYC?

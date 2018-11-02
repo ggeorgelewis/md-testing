@@ -12,7 +12,3 @@ audience: KYC Analyst, Finance Manager
 Users can request documents by creating a customised request.
 
 Click the **Add new** button within template management, then select the categories and document types from the checklist. Click **Save** and define a name for the template.
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MjUwMTc2XX0=
--->

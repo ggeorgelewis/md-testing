@@ -1,10 +1,8 @@
 ---
-
 product: komgo Platform
-capability:
+capability: null
 infotype: Overview
-audience:
-
+audience: null
 ---
 
 # komgo Platform Overview
@@ -13,7 +11,8 @@ komgo is an Open Financing Platform designed to efficiently and securely connect
 
 The platform achieves this through the the following key capabilities:
 
-* **User Administration** User administration allows organisations to manage platform users to ensure people are only able to perform the actions they are authorised to perform.
+* **User Administration**   
+  User administration allows organisations to manage platform users to ensure people are only able to perform the actions they are authorised to perform.
 
   komgo gives organisations the ability to define their own roles to reflect the organisation's own operations, and to manage how these roles are assigned to users.
 
@@ -27,3 +26,6 @@ The platform achieves this through the the following key capabilities:
   komgo simplifies this process for all parties involved by providing a secure document management system the enables parties to seamlessly and securely share the documents required for KYC on a peer-to-peer basis.
 
 * **Trade Finance** The Trade Finance feature facilitates both processes for applying for financing, and the subsequent issuing and sharing of the resulting instrument. komgo simplifies this process for all parties by providing a secure manner for commodities traders to share the documentation required for a finance application. After acceptance thereof, komgo enables the issuing bank to create the financing instrument on the platform, and securely share it with all the relevant stakeholders.
+
+
+

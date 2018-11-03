@@ -11,13 +11,16 @@ An Open Financing Platform designed to efficiently and securely connect finance 
 
 The platform achieves this through the the following key capabilities:
 
-* **User Administration       
-  **User administration allows organisations to manage platform users to ensure people are only able to perform the actions they are authorised to perform.  
+* **User Administration**
+  User administration allows organisations to manage platform users to ensure people are only able to perform the actions they are authorised to perform.  
+
   The platform gives organisations the ability to define their own roles to reflect the organisation's own operations, and to manage how these roles are assigned to users.
 
 * **Counterparty Management**  
-  Counterparty management allows komgo users to manage the other organisations with whom they interact on the platform \(counterparties\).  
+  Counterparty management allows komgo users to manage the other organisations with whom they interact on the platform \(counterparties\).
+    
   The platform enables organisations to "request" to connect with other organisations on the platform; similar to a facebook friend request.  
+  
   Counterparty management is critical to ensuring that sensitive information is only sent to organisation \(counterparties\) with whom your organisation has agreed to share information.
 
 * **Know Your Customer \(KYC\)**  
@@ -27,7 +30,5 @@ The platform achieves this through the the following key capabilities:
 
 * **Trade Finance**  
   The Trade Finance feature facilitates both processes for applying for financing, and the subsequent issuing and sharing of the resulting instrument.  
+
   The platform simplifies this process for all parties by providing a secure manner for commodities traders to share the documentation required for a finance application. After acceptance thereof, komgo enables the issuing bank to create the financing instrument on the platform, and securely share it with all the relevant stakeholders.
-
-
-

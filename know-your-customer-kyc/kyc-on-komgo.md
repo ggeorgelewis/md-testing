@@ -5,7 +5,7 @@ infotype: Concept
 audience: null
 ---
 
-# KYC on the platform
+# KYC on komgo
 
 The platform allows banks and organisations to manage their KYC with other parties. Organisations can send their own documents to other counterparties for KYC purposes.
 

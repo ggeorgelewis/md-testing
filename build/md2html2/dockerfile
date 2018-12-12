@@ -1,0 +1,40 @@
+FROM ruby
+RUN apt-get update
+RUN wget https://github.com/jgm/pandoc/releases/download/2.4/pandoc-2.4-1-amd64.deb
+RUN dpkg -i pandoc-2.4-1-amd64.deb
+RUN gem install jekyll bundler
+
+COPY . /build/
+
+ARG GITHUB_TOKEN
+ARG GITHUB_USERNAME
+ARG GITHUB_EMAIL
+RUN git config --global user.email "${GITHUB_EMAIL}"
+RUN git config --global user.name "${GITHUB_USERNAME}"
+
+RUN git clone https://${GITHUB_TOKEN}@github.com/ggeorgelewis/content-help-portal.git /demo-content/
+WORKDIR /demo-content/
+#  change link url for README.md to index.md in SUMMARY.md
+RUN sed -i -e 's/(README.md)/(index.md)/g' SUMMARY.md
+
+# find/replace .md file extensions to .html on all links
+RUN find . -type f -name "*.md" -print0 | xargs -0 sed -i -e 's/.md/.html/g'
+
+# find/add {{ site.baseurl}}/assets to all images in markdown
+RUN find . -type f -name "*.md" -print0 | xargs -0 sed -i -e 's/\/assets\//{{ site.baseurl }}\/assets\//g'
+
+# rename README.md to index.md
+RUN mv README.md index.md
+
+# pre-convert SUMMARY.md to static HTML, save in _includes/ folder
+RUN mkdir _includes
+RUN pandoc --from gfm --to html SUMMARY.md --output _includes/SUMMARY.html
+
+#  add {{ site.baseurl }} to all links in SUMMARY.html
+RUN sed -i -e 's/href="/href="{{ site.baseurl }}\//g' _includes/SUMMARY.html
+
+RUN cp -rf /demo-content/* /build/
+
+WORKDIR /build/
+RUN bundle install
+RUN bundle exec jekyll build

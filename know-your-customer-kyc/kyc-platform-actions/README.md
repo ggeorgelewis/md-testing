@@ -5,16 +5,9 @@ infotype: Overview
 audience: null
 ---
 
-
 # KYC platform actions
-
 
 The following flowchart and sections describe the actions to be taken on the KYC Platform.
 
+![](/assets/Komgo.png)
 
-![](../../.gitbook/assets/kKomgo.png)
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzIzMDkwMl19
--->

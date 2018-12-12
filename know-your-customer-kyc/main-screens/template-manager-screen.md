@@ -5,16 +5,9 @@ infotype: Landingpage
 audience: null
 ---
 
-
 # Template Manager Screen
-
 
 Template Manager is used to create and edit templates used in document requests.
 
-
 A template comprises a number of document categories and types, which are requested from a counterparty in the document request flow. These document categories and types are predefined.
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTkxNzIxNzldfQ==
--->

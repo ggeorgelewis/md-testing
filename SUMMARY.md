@@ -1,11 +1,8 @@
-# Table of contentsSummary
-
+# Summary
 
 * [Platform Overview](README.md)
 
-
 ## Know Your Customer \(KYC\)
-
 
 * [What is KYC?](know-your-customer-kyc/what-is-kyc.md)
 * [KYC on komgo](know-your-customer-kyc/kyc-on-komgo.md)
@@ -18,8 +15,3 @@
   * [Create Document Request Template](know-your-customer-kyc/kyc-platform-actions/create-document-request-template.md)
   * [Document Request](know-your-customer-kyc/kyc-platform-actions/document-request.md)
 
-* [Test new topic](know-your-customer-kyc/test-new-topic.md)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzIxNDc0MF19
--->

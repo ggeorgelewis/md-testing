@@ -9,8 +9,5 @@ audience: null
 
 The following flowchart and sections describe the actions to be taken on the KYC Platform.
 
-![](../../.gitbook/assets/kKomgo.png)
+![](../../.gitbook/assets/komgo.png)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3Mzc1OTMyXX0=
--->

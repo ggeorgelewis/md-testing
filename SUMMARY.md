@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Platform Overview](README.md)
 
@@ -14,5 +14,4 @@
   * [Document Request with the template \(Load Template Button\)](know-your-customer-kyc/kyc-platform-actions/document-request-with-the-template-load-template-button.md)
   * [Create Document Request Template](know-your-customer-kyc/kyc-platform-actions/create-document-request-template.md)
   * [Document Request](know-your-customer-kyc/kyc-platform-actions/document-request.md)
-* [Test new topic](know-your-customer-kyc/test-new-topic.md)
 

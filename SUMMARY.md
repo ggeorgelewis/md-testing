@@ -1,4 +1,4 @@
-# Table of contentsSummary
+# Table of contents
 
 * [Platform Overview](README.md)
 
@@ -16,6 +16,3 @@
   * [Document Request](know-your-customer-kyc/kyc-platform-actions/document-request.md)
 * [Test new topic](know-your-customer-kyc/test-new-topic.md)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzYyNjQwNl19
--->

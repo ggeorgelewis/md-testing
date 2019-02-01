@@ -52,5 +52,5 @@ The platform achieves this through the the following key capabilities:
   The platform simplifies this process for all parties by providing a secure manner for commodities traders to share the documentation required for a finance application. After acceptance thereof, komgo enables the issuing bank to create the financing instrument on the platform, and securely share it with all the relevant stakeholders.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzc5NzUzMV19
+eyJoaXN0b3J5IjpbNjUzNDUwOTgxXX0=
 -->

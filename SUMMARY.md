@@ -1,11 +1,8 @@
-# Table of contentsSummary
-
+# Table of contents
 
 * [Platform Overview](README.md)
 
-
 ## Know Your Customer \(KYC\)
-
 
 * [What is KYC?](know-your-customer-kyc/what-is-kyc.md)
 * [KYC on komgo](know-your-customer-kyc/kyc-on-komgo.md)
@@ -20,10 +17,6 @@
 
 ## Part 2
 
-* [Part 2 topic](part-2/part-2
+* [\[Part 2 topic\]\(part-2/part-2](part-2/part-2-topic-part-2-part-2.md)
+* [Test new topic](part-2/test-new-topic.md)
 
-* [Test new topic](know-your-customer-kyc/test-new-topic.md)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNDQ1ODc4XX0=
--->

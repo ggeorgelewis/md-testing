@@ -3,6 +3,7 @@ product: Know Your Customer
 capability: null
 infotype: Overview
 audience: null
+description: This is meta data test
 ---
 
 # What is KYC?

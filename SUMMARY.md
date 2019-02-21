@@ -20,5 +20,5 @@
 * [\[Part 2 topic\]\(part-2/part-2](part-2/part-2-topic-part-2-part-2.md)
 * [Test new topic](part-2/test-new-topic.md)
 * [new page](part-2/new-page.md)
-* [new page 2](part-2/part-2-topic-part-2-part-2.md)
+* [new page 2](part-2/part-2-topic-part-2-part-2-1.md)
 

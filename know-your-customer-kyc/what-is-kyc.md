@@ -3,12 +3,15 @@ product: Know Your Customer
 capability: null
 infotype: Overview
 audience: null
-description: product - Know Your Customer | Capability - null | infotype - Overview | audience- null
+description: >-
+  product - Know Your Customer | Capability - null | infotype - Overview |
+  audience- null
 ---
 
 # What is KYC?
+
 {% hint style="danger" %}
-This is danger noticie for fun
+This is danger notice for fun
 {% endhint %}
 
 Following the introduction of Anti Money Laundering Regulations over the past 15 years, the KYC \(Know Your Customer, or Know Your Client\) process ensures that a business can verify the identity of any client with whom they interact before the business relationship starts, in order to minimize any potential risks of illegal activity.
